@@ -7,7 +7,7 @@ It allows management of patients, doctors, appointments, bills, and medical proc
 ## Project Structure
 
 - hospital/
-- │
+- |
 - ├── add_appointment.php
 - ├── add_bill.php
 - ├── add_doctor.php
