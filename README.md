@@ -48,6 +48,22 @@ It allows management of patients, doctors, appointments, bills, and medical proc
 - Secure login and logout system  
 
 
+## Screenshots
+
+### Login Page
+<img width="1365" height="626" alt="image" src="https://github.com/user-attachments/assets/be7cf6c5-7e0d-4043-a243-f4ca4d6c2fb7" />
+
+### Home Page
+<img width="1365" height="632" alt="image" src="https://github.com/user-attachments/assets/458701d0-e655-4d11-a954-d3e80dc8c791" />
+
+### Patient's List
+<img width="1364" height="566" alt="image" src="https://github.com/user-attachments/assets/4d3be6d8-5274-4a75-a04d-d713e4a79b8f" />
+
+### Adding a Patient
+<img width="1365" height="632" alt="image" src="https://github.com/user-attachments/assets/52187bcf-780f-4686-baef-7de09577fde0" />
+
+### Other modules like **View Doctors**, **Add Doctor**, etc., follow a similar dashboard design and functionality, so screenshots for those have been excluded to avoid repetition.
+
 ## Installation & Setup
 > **Prerequisite:** Make sure you have **XAMPP**/**WAMP**/**LAMP** or any local server with PHP and MySQL.
 
